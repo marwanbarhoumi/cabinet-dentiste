@@ -1,0 +1,123 @@
+{
+  "app_name": "عيادة الأسنان",
+  "login": {
+    "title": "عيادة الأسنان",
+    "subtitle": "سجّل دخولك إلى حسابك",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "submit": "تسجيل الدخول",
+    "loading": "جارٍ التسجيل...",
+    "no_account": "ليس لديك حساب؟",
+    "register_link": "إنشاء حساب"
+  },
+  "register": {
+    "title": "إنشاء حساب",
+    "subtitle": "انضم إلى عيادتنا",
+    "name": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "password": "كلمة المرور",
+    "submit": "إنشاء حساب",
+    "loading": "جارٍ التسجيل...",
+    "have_account": "لديك حساب بالفعل؟",
+    "login_link": "تسجيل الدخول"
+  },
+  "sidebar": {
+    "doctor": "طبيب",
+    "patient": "مريض",
+    "dashboard": "لوحة التحكم",
+    "appointments": "المواعيد",
+    "patients": "المرضى",
+    "home": "الرئيسية",
+    "book": "حجز موعد",
+    "my_appointments": "مواعيدي",
+    "logout": "تسجيل الخروج"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "subtitle": "مرحباً في مساحة الطبيب",
+    "total_patients": "إجمالي المرضى",
+    "total_rdv": "إجمالي المواعيد",
+    "pending": "قيد الانتظار",
+    "today": "اليوم",
+    "recent": "آخر المواعيد",
+    "no_appointments": "لا توجد مواعيد حالياً"
+  },
+  "appointments": {
+    "title": "إدارة المواعيد",
+    "all": "الكل",
+    "pending": "قيد الانتظار",
+    "confirmed": "مؤكدة",
+    "completed": "منتهية",
+    "cancelled": "ملغاة",
+    "patient": "المريض",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "type": "النوع",
+    "status": "الحالة",
+    "actions": "الإجراءات",
+    "confirm": "تأكيد",
+    "cancel": "إلغاء",
+    "complete": "إنهاء",
+    "no_appointments": "لا توجد مواعيد"
+  },
+  "patients": {
+    "title": "إدارة المرضى",
+    "search": "ابحث عن مريض...",
+    "list": "القائمة",
+    "no_phone": "لا يوجد هاتف",
+    "select": "اختر مريضاً",
+    "record": "الملف الطبي",
+    "allergies": "الحساسية",
+    "no_allergies": "لا توجد حساسية",
+    "treatments": "العلاجات",
+    "no_treatments": "لا توجد علاجات",
+    "no_patients": "لا يوجد مرضى"
+  },
+  "client": {
+    "hello": "مرحباً",
+    "welcome": "أهلاً بك في مساحتك",
+    "book_title": "حجز موعد",
+    "book_subtitle": "احجز موعدك القادم",
+    "my_rdv_title": "مواعيدي",
+    "my_rdv_subtitle": "اطّلع على مواعيدك السابقة والقادمة",
+    "hours": "الاثنين - السبت: 8:00 - 18:00",
+    "address": "تونس العاصمة"
+  },
+  "book": {
+    "title": "حجز موعد",
+    "subtitle": "اختر الوقت المناسب لك",
+    "type": "نوع العلاج",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "notes": "ملاحظات (اختياري)",
+    "notes_placeholder": "صف مشكلتك...",
+    "submit": "تأكيد الموعد",
+    "loading": "جارٍ الحجز...",
+    "success_title": "تم حجز الموعد!",
+    "success_sub": "جارٍ التحويل..."
+  },
+  "my_appointments": {
+    "title": "مواعيدي",
+    "upcoming": "القادمة",
+    "history": "السجل",
+    "cancel": "إلغاء",
+    "cancel_confirm": "هل تريد إلغاء هذا الموعد؟",
+    "no_appointments": "لا توجد مواعيد حالياً",
+    "book_link": "احجز موعداً ←"
+  },
+  "types": {
+    "consultation": "استشارة",
+    "detartrage": "تنظيف أسنان",
+    "extraction": "خلع سن",
+    "implant": "زراعة أسنان",
+    "blanchiment": "تبييض أسنان",
+    "autre": "أخرى"
+  },
+  "status": {
+    "pending": "قيد الانتظار",
+    "confirmed": "مؤكد",
+    "cancelled": "ملغى",
+    "completed": "منتهي"
+  }
+}

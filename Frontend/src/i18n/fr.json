@@ -1,0 +1,123 @@
+{
+  "app_name": "Cabinet Dentaire",
+  "login": {
+    "title": "Cabinet Dentaire",
+    "subtitle": "Connectez-vous à votre espace",
+    "email": "Email",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "loading": "Connexion...",
+    "no_account": "Pas encore de compte ?",
+    "register_link": "S'inscrire"
+  },
+  "register": {
+    "title": "Créer un compte",
+    "subtitle": "Rejoignez notre cabinet",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "password": "Mot de passe",
+    "submit": "S'inscrire",
+    "loading": "Inscription...",
+    "have_account": "Déjà un compte ?",
+    "login_link": "Se connecter"
+  },
+  "sidebar": {
+    "doctor": "Médecin",
+    "patient": "Patient",
+    "dashboard": "Dashboard",
+    "appointments": "Rendez-vous",
+    "patients": "Patients",
+    "home": "Accueil",
+    "book": "Prendre RDV",
+    "my_appointments": "Mes RDV",
+    "logout": "Déconnexion"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "subtitle": "Bienvenue dans votre espace médecin",
+    "total_patients": "Total Patients",
+    "total_rdv": "Total RDV",
+    "pending": "En attente",
+    "today": "Aujourd'hui",
+    "recent": "Derniers Rendez-vous",
+    "no_appointments": "Aucun rendez-vous pour le moment"
+  },
+  "appointments": {
+    "title": "Gestion des Rendez-vous",
+    "all": "Tous",
+    "pending": "En attente",
+    "confirmed": "Confirmés",
+    "completed": "Terminés",
+    "cancelled": "Annulés",
+    "patient": "Patient",
+    "date": "Date",
+    "time": "Heure",
+    "type": "Type",
+    "status": "Statut",
+    "actions": "Actions",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "complete": "Terminer",
+    "no_appointments": "Aucun rendez-vous"
+  },
+  "patients": {
+    "title": "Gestion des Patients",
+    "search": "Rechercher un patient...",
+    "list": "Liste",
+    "no_phone": "Pas de téléphone",
+    "select": "Sélectionnez un patient",
+    "record": "Dossier",
+    "allergies": "Allergies",
+    "no_allergies": "Aucune allergie",
+    "treatments": "Traitements",
+    "no_treatments": "Aucun traitement",
+    "no_patients": "Aucun patient"
+  },
+  "client": {
+    "hello": "Bonjour",
+    "welcome": "Bienvenue dans votre espace patient",
+    "book_title": "Prendre un RDV",
+    "book_subtitle": "Réservez votre prochain rendez-vous",
+    "my_rdv_title": "Mes Rendez-vous",
+    "my_rdv_subtitle": "Consultez vos RDV passés et à venir",
+    "hours": "Lun - Sam: 8h00 - 18h00",
+    "address": "Tunis, Tunisie"
+  },
+  "book": {
+    "title": "Prendre un Rendez-vous",
+    "subtitle": "Choisissez votre créneau disponible",
+    "type": "Type de soin",
+    "date": "Date",
+    "time": "Heure",
+    "notes": "Notes (optionnel)",
+    "notes_placeholder": "Décrivez votre problème...",
+    "submit": "Confirmer le RDV",
+    "loading": "Réservation...",
+    "success_title": "RDV réservé!",
+    "success_sub": "Redirection en cours..."
+  },
+  "my_appointments": {
+    "title": "Mes Rendez-vous",
+    "upcoming": "À venir",
+    "history": "Historique",
+    "cancel": "Annuler",
+    "cancel_confirm": "Voulez-vous annuler ce RDV?",
+    "no_appointments": "Aucun rendez-vous pour le moment",
+    "book_link": "Prendre un RDV →"
+  },
+  "types": {
+    "consultation": "Consultation",
+    "detartrage": "Détartrage",
+    "extraction": "Extraction",
+    "implant": "Implant",
+    "blanchiment": "Blanchiment",
+    "autre": "Autre"
+  },
+  "status": {
+    "pending": "En attente",
+    "confirmed": "Confirmé",
+    "cancelled": "Annulé",
+    "completed": "Terminé"
+  }
+}
