@@ -8,7 +8,7 @@ connectDB();
 
 const app = express();
 
-app.use(cors({
+const corsOptions = {
   origin: [
     'http://localhost:5173',
     'https://cabinet-dentiste.vercel.app',
@@ -17,10 +17,9 @@ app.use(cors({
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
   credentials: true,
-}));
+};
 
-app.options('*', cors());
-
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Routes
